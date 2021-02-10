@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(mistyrose, peachpuff);
+  }
+  
+  h1 {
+    color: lightcoral;
+    text-align: center;
+    color: maroon;
+    font-family: 'didot';
+    font-style: italic;
+    font-size: 100px;
+    line-height: 0.5;
+  }
+
+  h2 {
+    color: lightcoral;
+    text-align: center;
+    color: maroon;
+    font-family: 'didot';
+    font-size: 30px;
+    letter-spacing: 6px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: maroon;
+    font-family: 'didot';
+  }
+
+  iframe {
+      display: block;
+      margin: auto;
+      border-color: maroon;
+      border-width: 8px;
+      border-style: solid;
+  }
