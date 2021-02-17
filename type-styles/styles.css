@@ -1,0 +1,152 @@
+
+
+body {
+    background-color: #d8d9de;
+    margin-left: 20%;
+}
+  
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    color: #6e7889;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    color: #6e7889;
+}
+
+h3 {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    color: #ed820e;
+    margin: 10px;
+}
+  
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: #393b45;
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.normalWeight {
+    font-weight: normal;
+}
+
+.boldWeight {
+    font-weight: bold;
+}
+
+.normalStyle {
+    font-style: normal;
+}
+
+.italicStyle {
+    font-style: italic;
+}
+
+.normalSpacing {
+    letter-spacing: normal;
+}
+
+.wideSpacing {
+    letter-spacing: 0.3em;
+}
+
+.narrowSpacing {
+    letter-spacing: -0.06em;
+}
+
+.noDec {
+    text-decoration: none;
+}
+
+p.underDec { 
+    text-decoration: underline;
+}
+
+p.throughDec {
+    text-decoration: line-through;
+}
+
+p.overDec {
+    text-decoration: overline;
+}
+
+p.noTrans {
+    text-transform: none;
+}
+
+p.upTrans {
+    text-transform: uppercase;
+}
+
+p.lowTrans {
+    text-transform: lowercase;
+}
+
+p.capTrans {
+    text-transform: capitalize;
+}
+
+p.normalWeight {
+    font-weight: normal;
+}
+
+p.boldWeight {
+    font-weight: bold;
+}
+
+p.normalStyle {
+    font-style: normal;
+}
+p.italicStyle {
+    font-style: italic;
+}
+
+p.normalSpacing {
+    letter-spacing: normal;
+}
+
+p.wideSpacing {
+    letter-spacing: 0.3em;
+}
+
+p.narrowSpacing {
+    letter-spacing: -0.06em;
+}
+
+p.noDec {
+    text-decoration: none;
+}
+
+p.underDec { 
+    text-decoration: underline;
+}
+
+p.throughDec {
+    text-decoration: line-through;
+}
+
+p.overDec {
+    text-decoration: overline;
+}
+
+p.noTrans {
+    text-transform: none;
+}
+
+p.upTrans {
+    text-transform: uppercase;
+}
+
+p.lowTrans {
+    text-transform: lowercase;
+}
+
+p.capTrans {
+    text-transform: capitalize;
+}
