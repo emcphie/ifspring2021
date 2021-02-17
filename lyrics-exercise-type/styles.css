@@ -1,0 +1,63 @@
+body {
+    background-image: linear-gradient(mistyrose, peachpuff);
+  }
+  
+  h1 {
+    text-align: center;
+    color: maroon;
+    font-family: 'Pirata One', cursive;
+    font-size: 100px;
+    line-height: 0.5;
+    letter-spacing: 5px;
+  }
+
+  h2 {
+    text-align: center;
+    color: #fd5e53;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    letter-spacing: 12px;
+  }
+
+  h3 {
+    color: #fd5e53;
+    text-align: center;
+    font-family: 'Pirata One', cursive;
+    font-size: 18px;
+    letter-spacing: 3px;
+  }
+  
+  p {
+    font-size: 20px;
+    text-align: center;
+    color: maroon;
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 28px;
+    padding-bottom: 30px;
+  }
+
+ 
+
+  .chorus {
+      font-style: italic;
+  }
+
+  iframe {
+      display: block;
+      margin: auto;
+      border-color: maroon;
+      border-width: 8px;
+      border-style: solid;
+      padding: 6px;
+  }
+
+
+h4 {
+    font-size: 12px;
+    line-height: 19px;
+    text-align: center;
+    color: peachpuff;
+    background-color:#fd5e53;
+    font-family: 'Josefin Sans', sans-serif;
+  }
